@@ -7,4 +7,7 @@ Command: `python hexdump.py <PATH TO THE FILE>`
 
 Tasks:
 - [x] Finalise the open source python code.
-- [ ] Make the command based .exe file.
+- [x] Make the command based .exe file.
+
+Update: .exe file is now available in Releases!
+You can add it to your PATH as well.
